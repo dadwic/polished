@@ -1,12 +1,548 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`logicalProperty returns logical properties for border longhand 1`] = `
+Array [
+  Object {
+    "borderBlockStart": "20px dashed green",
+  },
+  Object {
+    "borderTop": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border longhand 2`] = `
+Array [
+  Object {
+    "borderBlockEnd": "20px dashed green",
+  },
+  Object {
+    "borderBottom": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border longhand 3`] = `
+Array [
+  Object {
+    "borderInlineStart": "20px dashed green",
+  },
+  Object {
+    "borderLeft": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border longhand 4`] = `
+Array [
+  Object {
+    "borderInlineEnd": "20px dashed green",
+  },
+  Object {
+    "borderRight": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border longhand 5`] = `
+Array [
+  Object {
+    "borderBlockStart": "20px dashed green",
+  },
+  Object {
+    "borderTop": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border longhand 6`] = `
+Array [
+  Object {
+    "borderBlockEnd": "20px dashed green",
+  },
+  Object {
+    "borderBottom": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border longhand 7`] = `
+Array [
+  Object {
+    "borderInlineStart": "20px dashed green",
+  },
+  Object {
+    "borderLeft": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border longhand 8`] = `
+Array [
+  Object {
+    "borderInlineEnd": "20px dashed green",
+  },
+  Object {
+    "borderRight": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border shorthand 1`] = `
+Array [
+  Object {
+    "borderBottom": "20px dashed green",
+    "borderTop": "20px dashed green",
+  },
+  Object {
+    "borderBlock": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border shorthand 2`] = `
+Array [
+  Object {
+    "borderLeft": "20px dashed green",
+    "borderRight": "20px dashed green",
+  },
+  Object {
+    "borderInline": "20px dashed green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 1`] = `
+Array [
+  Object {
+    "borderBlockStartColor": "green",
+  },
+  Object {
+    "borderTopColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 2`] = `
+Array [
+  Object {
+    "borderBlockEndColor": "green",
+  },
+  Object {
+    "borderBottomColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 3`] = `
+Array [
+  Object {
+    "borderInlineStartColor": "green",
+  },
+  Object {
+    "borderLeftColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 4`] = `
+Array [
+  Object {
+    "borderInlineEndColor": "green",
+  },
+  Object {
+    "borderRightColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 5`] = `
+Array [
+  Object {
+    "borderBlockStartColor": "green",
+  },
+  Object {
+    "borderTopColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 6`] = `
+Array [
+  Object {
+    "borderBlockEndColor": "green",
+  },
+  Object {
+    "borderBottomColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 7`] = `
+Array [
+  Object {
+    "borderInlineStartColor": "green",
+  },
+  Object {
+    "borderLeftColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color longhand 8`] = `
+Array [
+  Object {
+    "borderInlineEndColor": "green",
+  },
+  Object {
+    "borderRightColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color shorthand 1`] = `
+Array [
+  Object {
+    "borderBottomColor": "green",
+    "borderTopColor": "green",
+  },
+  Object {
+    "borderBlockColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-color shorthand 2`] = `
+Array [
+  Object {
+    "borderLeftColor": "green",
+    "borderRightColor": "green",
+  },
+  Object {
+    "borderInlineColor": "green",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 1`] = `
+Array [
+  Object {
+    "borderStartStartRadius": "5px",
+  },
+  Object {
+    "borderTopLeftRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 2`] = `
+Array [
+  Object {
+    "borderStartEndRadius": "5px",
+  },
+  Object {
+    "borderBottomLeftRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 3`] = `
+Array [
+  Object {
+    "borderEndStartRadius": "5px",
+  },
+  Object {
+    "borderTopRightRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 4`] = `
+Array [
+  Object {
+    "borderEndEndRadius": "5px",
+  },
+  Object {
+    "borderBottomRightRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 5`] = `
+Array [
+  Object {
+    "borderStartStartRadius": "5px",
+  },
+  Object {
+    "borderTopLeftRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 6`] = `
+Array [
+  Object {
+    "borderStartEndRadius": "5px",
+  },
+  Object {
+    "borderBottomLeftRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 7`] = `
+Array [
+  Object {
+    "borderEndStartRadius": "5px",
+  },
+  Object {
+    "borderTopRightRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-radius 8`] = `
+Array [
+  Object {
+    "borderEndEndRadius": "5px",
+  },
+  Object {
+    "borderBottomRightRadius": "5px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 1`] = `
+Array [
+  Object {
+    "borderBlockStartStyle": "dashed",
+  },
+  Object {
+    "borderTopStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 2`] = `
+Array [
+  Object {
+    "borderBlockEndStyle": "dashed",
+  },
+  Object {
+    "borderBottomStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 3`] = `
+Array [
+  Object {
+    "borderInlineStartStyle": "dashed",
+  },
+  Object {
+    "borderLeftStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 4`] = `
+Array [
+  Object {
+    "borderInlineEndStyle": "dashed",
+  },
+  Object {
+    "borderRightStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 5`] = `
+Array [
+  Object {
+    "borderBlockStartStyle": "dashed",
+  },
+  Object {
+    "borderTopStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 6`] = `
+Array [
+  Object {
+    "borderBlockEndStyle": "dashed",
+  },
+  Object {
+    "borderBottomStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 7`] = `
+Array [
+  Object {
+    "borderInlineStartStyle": "dashed",
+  },
+  Object {
+    "borderLeftStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style longhand 8`] = `
+Array [
+  Object {
+    "borderInlineEndStyle": "dashed",
+  },
+  Object {
+    "borderRightStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style shorthand 1`] = `
+Array [
+  Object {
+    "borderBottomStyle": "dashed",
+    "borderTopStyle": "dashed",
+  },
+  Object {
+    "borderBlockStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-style shorthand 2`] = `
+Array [
+  Object {
+    "borderLeftStyle": "dashed",
+    "borderRightStyle": "dashed",
+  },
+  Object {
+    "borderInlineStyle": "dashed",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 1`] = `
+Array [
+  Object {
+    "borderBlockStartWidth": "20px",
+  },
+  Object {
+    "borderTopWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 2`] = `
+Array [
+  Object {
+    "borderBlockEndWidth": "20px",
+  },
+  Object {
+    "borderBottomWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 3`] = `
+Array [
+  Object {
+    "borderInlineStartWidth": "20px",
+  },
+  Object {
+    "borderLeftWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 4`] = `
+Array [
+  Object {
+    "borderInlineEndWidth": "20px",
+  },
+  Object {
+    "borderRightWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 5`] = `
+Array [
+  Object {
+    "borderBlockStartWidth": "20px",
+  },
+  Object {
+    "borderTopWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 6`] = `
+Array [
+  Object {
+    "borderBlockEndWidth": "20px",
+  },
+  Object {
+    "borderBottomWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 7`] = `
+Array [
+  Object {
+    "borderInlineStartWidth": "20px",
+  },
+  Object {
+    "borderLeftWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width longhand 8`] = `
+Array [
+  Object {
+    "borderInlineEndWidth": "20px",
+  },
+  Object {
+    "borderRightWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width shorthand 1`] = `
+Array [
+  Object {
+    "borderBottomWidth": "20px",
+    "borderTopWidth": "20px",
+  },
+  Object {
+    "borderBlockWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for border-width shorthand 2`] = `
+Array [
+  Object {
+    "borderLeftWidth": "20px",
+    "borderRightWidth": "20px",
+  },
+  Object {
+    "borderInlineWidth": "20px",
+  },
+]
+`;
+
 exports[`logicalProperty returns logical properties for caption-side 1`] = `
 Array [
   Object {
-    "captionSide": "left",
+    "captionSide": "inlineStart",
   },
   Object {
-    "captionSide": "inline-start",
+    "captionSide": "left",
   },
 ]
 `;
@@ -14,10 +550,10 @@ Array [
 exports[`logicalProperty returns logical properties for caption-side 2`] = `
 Array [
   Object {
-    "captionSide": "right",
+    "captionSide": "inlineEnd",
   },
   Object {
-    "captionSide": "inline-end",
+    "captionSide": "right",
   },
 ]
 `;
@@ -25,10 +561,21 @@ Array [
 exports[`logicalProperty returns logical properties for caption-side 3`] = `
 Array [
   Object {
-    "captionSide": "right",
+    "captionSide": "inlineEnd",
   },
   Object {
-    "captionSide": "inline-end",
+    "captionSide": "right",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for caption-side 4`] = `
+Array [
+  Object {
+    "captionSide": "inlineEnd",
+  },
+  Object {
+    "captionSide": "right",
   },
 ]
 `;
@@ -36,10 +583,10 @@ Array [
 exports[`logicalProperty returns logical properties for clear 1`] = `
 Array [
   Object {
-    "clear": "left",
+    "clear": "inlineStart",
   },
   Object {
-    "clear": "inline-start",
+    "clear": "left",
   },
 ]
 `;
@@ -47,10 +594,531 @@ Array [
 exports[`logicalProperty returns logical properties for clear 2`] = `
 Array [
   Object {
-    "clear": "right",
+    "clear": "inlineEnd",
   },
   Object {
-    "clear": "inline-end",
+    "clear": "right",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for clear 3`] = `
+Array [
+  Object {
+    "clear": "inlineEnd",
+  },
+  Object {
+    "clear": "right",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with a single value 1`] = `
+Array [
+  Object {
+    "bottom": "20px",
+    "left": "20px",
+    "right": "20px",
+    "top": "20px",
+  },
+  Object {
+    "insetBlockEnd": "20px",
+    "insetBlockStart": "20px",
+    "insetInlineEnd": "20px",
+    "insetInlineStart": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with a single value 2`] = `
+Array [
+  Object {
+    "marginBottom": "20px",
+    "marginLeft": "20px",
+    "marginRight": "20px",
+    "marginTop": "20px",
+  },
+  Object {
+    "marginBlockEnd": "20px",
+    "marginBlockStart": "20px",
+    "marginInlineEnd": "20px",
+    "marginInlineStart": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with a single value 3`] = `
+Array [
+  Object {
+    "paddingBottom": "20px",
+    "paddingLeft": "20px",
+    "paddingRight": "20px",
+    "paddingTop": "20px",
+  },
+  Object {
+    "paddingBlockEnd": "20px",
+    "paddingBlockStart": "20px",
+    "paddingInlineEnd": "20px",
+    "paddingInlineStart": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with a single value 4`] = `
+Array [
+  Object {
+    "borderBottomWidth": "20px",
+    "borderLeftWidth": "20px",
+    "borderRightWidth": "20px",
+    "borderTopWidth": "20px",
+  },
+  Object {
+    "borderBlockEndWidth": "20px",
+    "borderBlockStartWidth": "20px",
+    "borderInlineEndWidth": "20px",
+    "borderInlineStartWidth": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with a single value 5`] = `
+Array [
+  Object {
+    "borderBottomStyle": "20px",
+    "borderLeftStyle": "20px",
+    "borderRightStyle": "20px",
+    "borderTopStyle": "20px",
+  },
+  Object {
+    "borderBlockEndStyle": "20px",
+    "borderBlockStartStyle": "20px",
+    "borderInlineEndStyle": "20px",
+    "borderInlineStartStyle": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with a single value 6`] = `
+Array [
+  Object {
+    "borderBottomColor": "20px",
+    "borderLeftColor": "20px",
+    "borderRightColor": "20px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "20px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "20px",
+    "borderInlineStartColor": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with a single value 7`] = `
+Array [
+  Object {
+    "borderBottomColor": "20px",
+    "borderLeftColor": "20px",
+    "borderRightColor": "20px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "20px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "20px",
+    "borderInlineStartColor": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 1`] = `
+Array [
+  Object {
+    "bottom": "15px",
+    "left": "10px",
+    "right": "5px",
+    "top": "20px",
+  },
+  Object {
+    "insetBlockEnd": "15px",
+    "insetBlockStart": "20px",
+    "insetInlineEnd": "5px",
+    "insetInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 2`] = `
+Array [
+  Object {
+    "marginBottom": "15px",
+    "marginLeft": "10px",
+    "marginRight": "5px",
+    "marginTop": "20px",
+  },
+  Object {
+    "marginBlockEnd": "15px",
+    "marginBlockStart": "20px",
+    "marginInlineEnd": "5px",
+    "marginInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 3`] = `
+Array [
+  Object {
+    "paddingBottom": "15px",
+    "paddingLeft": "10px",
+    "paddingRight": "5px",
+    "paddingTop": "20px",
+  },
+  Object {
+    "paddingBlockEnd": "15px",
+    "paddingBlockStart": "20px",
+    "paddingInlineEnd": "5px",
+    "paddingInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 4`] = `
+Array [
+  Object {
+    "borderBottomWidth": "15px",
+    "borderLeftWidth": "10px",
+    "borderRightWidth": "5px",
+    "borderTopWidth": "20px",
+  },
+  Object {
+    "borderBlockEndWidth": "15px",
+    "borderBlockStartWidth": "20px",
+    "borderInlineEndWidth": "5px",
+    "borderInlineStartWidth": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 5`] = `
+Array [
+  Object {
+    "borderBottomWidth": "15px",
+    "borderLeftWidth": "10px",
+    "borderRightWidth": "5px",
+    "borderTopWidth": "20px",
+  },
+  Object {
+    "borderBlockEndWidth": "15px",
+    "borderBlockStartWidth": "20px",
+    "borderInlineEndWidth": "5px",
+    "borderInlineStartWidth": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 6`] = `
+Array [
+  Object {
+    "borderBottomStyle": "15px",
+    "borderLeftStyle": "10px",
+    "borderRightStyle": "5px",
+    "borderTopStyle": "20px",
+  },
+  Object {
+    "borderBlockEndStyle": "15px",
+    "borderBlockStartStyle": "20px",
+    "borderInlineEndStyle": "5px",
+    "borderInlineStartStyle": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 7`] = `
+Array [
+  Object {
+    "borderBottomStyle": "15px",
+    "borderLeftStyle": "10px",
+    "borderRightStyle": "5px",
+    "borderTopStyle": "20px",
+  },
+  Object {
+    "borderBlockEndStyle": "15px",
+    "borderBlockStartStyle": "20px",
+    "borderInlineEndStyle": "5px",
+    "borderInlineStartStyle": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 8`] = `
+Array [
+  Object {
+    "borderBottomColor": "15px",
+    "borderLeftColor": "10px",
+    "borderRightColor": "5px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "15px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "5px",
+    "borderInlineStartColor": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with four values 9`] = `
+Array [
+  Object {
+    "borderBottomColor": "15px",
+    "borderLeftColor": "10px",
+    "borderRightColor": "5px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "15px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "5px",
+    "borderInlineStartColor": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with three values 1`] = `
+Array [
+  Object {
+    "bottom": "15px",
+    "left": "10px",
+    "right": "10px",
+    "top": "20px",
+  },
+  Object {
+    "insetBlockEnd": "15px",
+    "insetBlockStart": "20px",
+    "insetInlineEnd": "10px",
+    "insetInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with three values 2`] = `
+Array [
+  Object {
+    "marginBottom": "15px",
+    "marginLeft": "10px",
+    "marginRight": "10px",
+    "marginTop": "20px",
+  },
+  Object {
+    "marginBlockEnd": "15px",
+    "marginBlockStart": "20px",
+    "marginInlineEnd": "10px",
+    "marginInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with three values 3`] = `
+Array [
+  Object {
+    "paddingBottom": "15px",
+    "paddingLeft": "10px",
+    "paddingRight": "10px",
+    "paddingTop": "20px",
+  },
+  Object {
+    "paddingBlockEnd": "15px",
+    "paddingBlockStart": "20px",
+    "paddingInlineEnd": "10px",
+    "paddingInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with three values 4`] = `
+Array [
+  Object {
+    "borderBottomWidth": "15px",
+    "borderLeftWidth": "10px",
+    "borderRightWidth": "10px",
+    "borderTopWidth": "20px",
+  },
+  Object {
+    "borderBlockEndWidth": "15px",
+    "borderBlockStartWidth": "20px",
+    "borderInlineEndWidth": "10px",
+    "borderInlineStartWidth": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with three values 5`] = `
+Array [
+  Object {
+    "borderBottomStyle": "15px",
+    "borderLeftStyle": "10px",
+    "borderRightStyle": "10px",
+    "borderTopStyle": "20px",
+  },
+  Object {
+    "borderBlockEndStyle": "15px",
+    "borderBlockStartStyle": "20px",
+    "borderInlineEndStyle": "10px",
+    "borderInlineStartStyle": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with three values 6`] = `
+Array [
+  Object {
+    "borderBottomColor": "15px",
+    "borderLeftColor": "10px",
+    "borderRightColor": "10px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "15px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "10px",
+    "borderInlineStartColor": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with three values 7`] = `
+Array [
+  Object {
+    "borderBottomColor": "15px",
+    "borderLeftColor": "10px",
+    "borderRightColor": "10px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "15px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "10px",
+    "borderInlineStartColor": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with two values 1`] = `
+Array [
+  Object {
+    "bottom": "20px",
+    "left": "10px",
+    "right": "10px",
+    "top": "20px",
+  },
+  Object {
+    "insetBlockEnd": "20px",
+    "insetBlockStart": "20px",
+    "insetInlineEnd": "10px",
+    "insetInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with two values 2`] = `
+Array [
+  Object {
+    "marginBottom": "20px",
+    "marginLeft": "10px",
+    "marginRight": "10px",
+    "marginTop": "20px",
+  },
+  Object {
+    "marginBlockEnd": "20px",
+    "marginBlockStart": "20px",
+    "marginInlineEnd": "10px",
+    "marginInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with two values 3`] = `
+Array [
+  Object {
+    "paddingBottom": "20px",
+    "paddingLeft": "10px",
+    "paddingRight": "10px",
+    "paddingTop": "20px",
+  },
+  Object {
+    "paddingBlockEnd": "20px",
+    "paddingBlockStart": "20px",
+    "paddingInlineEnd": "10px",
+    "paddingInlineStart": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with two values 4`] = `
+Array [
+  Object {
+    "borderBottomWidth": "20px",
+    "borderLeftWidth": "10px",
+    "borderRightWidth": "10px",
+    "borderTopWidth": "20px",
+  },
+  Object {
+    "borderBlockEndWidth": "20px",
+    "borderBlockStartWidth": "20px",
+    "borderInlineEndWidth": "10px",
+    "borderInlineStartWidth": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with two values 5`] = `
+Array [
+  Object {
+    "borderBottomStyle": "20px",
+    "borderLeftStyle": "10px",
+    "borderRightStyle": "10px",
+    "borderTopStyle": "20px",
+  },
+  Object {
+    "borderBlockEndStyle": "20px",
+    "borderBlockStartStyle": "20px",
+    "borderInlineEndStyle": "10px",
+    "borderInlineStartStyle": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with two values 6`] = `
+Array [
+  Object {
+    "borderBottomColor": "20px",
+    "borderLeftColor": "10px",
+    "borderRightColor": "10px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "20px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "10px",
+    "borderInlineStartColor": "10px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for complete shorthands with two values 7`] = `
+Array [
+  Object {
+    "borderBottomColor": "20px",
+    "borderLeftColor": "10px",
+    "borderRightColor": "10px",
+    "borderTopColor": "20px",
+  },
+  Object {
+    "borderBlockEndColor": "20px",
+    "borderBlockStartColor": "20px",
+    "borderInlineEndColor": "10px",
+    "borderInlineStartColor": "10px",
   },
 ]
 `;
@@ -58,10 +1126,10 @@ Array [
 exports[`logicalProperty returns logical properties for float 1`] = `
 Array [
   Object {
-    "float": "left",
+    "float": "inlineStart",
   },
   Object {
-    "float": "inline-start",
+    "float": "left",
   },
 ]
 `;
@@ -69,10 +1137,10 @@ Array [
 exports[`logicalProperty returns logical properties for float 2`] = `
 Array [
   Object {
-    "float": "right",
+    "float": "inlineEnd",
   },
   Object {
-    "float": "inline-end",
+    "float": "right",
   },
 ]
 `;
@@ -80,10 +1148,10 @@ Array [
 exports[`logicalProperty returns logical properties for height & width 1`] = `
 Array [
   Object {
-    "height": "200px",
+    "blockSize": "200px",
   },
   Object {
-    "blockSize": "200px",
+    "height": "200px",
   },
 ]
 `;
@@ -91,76 +1159,480 @@ Array [
 exports[`logicalProperty returns logical properties for height & width 2`] = `
 Array [
   Object {
+    "inlineSize": "300px",
+  },
+  Object {
     "width": "300px",
   },
+]
+`;
+
+exports[`logicalProperty returns logical properties for height & width 3`] = `
+Array [
+  Object {
+    "blockSize": "200px",
+  },
+  Object {
+    "height": "200px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for height & width 4`] = `
+Array [
   Object {
     "inlineSize": "300px",
   },
+  Object {
+    "width": "300px",
+  },
 ]
 `;
 
-exports[`logicalProperty returns logical properties for min/max-height & min/max- width 1`] = `
+exports[`logicalProperty returns logical properties for inset longhand 1`] = `
 Array [
   Object {
-    "minHeight": "200px",
+    "insetBlockStart": "20px",
   },
+  Object {
+    "insetTop": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset longhand 2`] = `
+Array [
+  Object {
+    "insetBlockEnd": "20px",
+  },
+  Object {
+    "insetBottom": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset longhand 3`] = `
+Array [
+  Object {
+    "insetInlineStart": "20px",
+  },
+  Object {
+    "insetLeft": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset longhand 4`] = `
+Array [
+  Object {
+    "insetInlineEnd": "20px",
+  },
+  Object {
+    "insetRight": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset longhand 5`] = `
+Array [
+  Object {
+    "insetBlockStart": "20px",
+  },
+  Object {
+    "insetTop": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset longhand 6`] = `
+Array [
+  Object {
+    "insetBlockEnd": "20px",
+  },
+  Object {
+    "insetBottom": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset longhand 7`] = `
+Array [
+  Object {
+    "insetInlineStart": "20px",
+  },
+  Object {
+    "insetLeft": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset longhand 8`] = `
+Array [
+  Object {
+    "insetInlineEnd": "20px",
+  },
+  Object {
+    "insetRight": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset shorthand 1`] = `
+Array [
+  Object {
+    "bottom": "20px",
+    "top": "20px",
+  },
+  Object {
+    "insetBlock": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset shorthand 2`] = `
+Array [
+  Object {
+    "left": "20px",
+    "right": "20px",
+  },
+  Object {
+    "insetInline": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset shorthand 3`] = `
+Array [
+  Object {
+    "bottom": "10px",
+    "top": "20px",
+  },
+  Object {
+    "insetBlock": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for inset shorthand 4`] = `
+Array [
+  Object {
+    "left": "20px",
+    "right": "10px",
+  },
+  Object {
+    "insetInline": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 1`] = `
+Array [
+  Object {
+    "marginBlockStart": "20px",
+  },
+  Object {
+    "marginTop": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 2`] = `
+Array [
+  Object {
+    "marginBlockEnd": "20px",
+  },
+  Object {
+    "marginBottom": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 3`] = `
+Array [
+  Object {
+    "marginInlineStart": "20px",
+  },
+  Object {
+    "marginLeft": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 4`] = `
+Array [
+  Object {
+    "marginInlineEnd": "20px",
+  },
+  Object {
+    "marginRight": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 5`] = `
+Array [
+  Object {
+    "marginBlockStart": "20px",
+  },
+  Object {
+    "marginTop": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 6`] = `
+Array [
+  Object {
+    "marginBlockEnd": "20px",
+  },
+  Object {
+    "marginBottom": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 7`] = `
+Array [
+  Object {
+    "marginInlineStart": "20px",
+  },
+  Object {
+    "marginLeft": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin longhand 8`] = `
+Array [
+  Object {
+    "marginInlineEnd": "20px",
+  },
+  Object {
+    "marginRight": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin shorthand 1`] = `
+Array [
+  Object {
+    "marginBottom": "20px",
+    "marginTop": "20px",
+  },
+  Object {
+    "marginBlock": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for margin shorthand 2`] = `
+Array [
+  Object {
+    "marginLeft": "20px",
+    "marginRight": "20px",
+  },
+  Object {
+    "marginInline": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 1`] = `
+Array [
   Object {
     "minBlockSize": "200px",
   },
+  Object {
+    "minHeight": "200px",
+  },
 ]
 `;
 
-exports[`logicalProperty returns logical properties for min/max-height & min/max- width 2`] = `
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 2`] = `
 Array [
-  Object {
-    "minWidth": "300px",
-  },
   Object {
     "minInlineSize": "300px",
   },
+  Object {
+    "minWidth": "300px",
+  },
 ]
 `;
 
-exports[`logicalProperty returns logical properties for min/max-height & min/max- width 3`] = `
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 3`] = `
 Array [
-  Object {
-    "maxHeight": "200px",
-  },
   Object {
     "maxBlockSize": "200px",
   },
+  Object {
+    "maxHeight": "200px",
+  },
 ]
 `;
 
-exports[`logicalProperty returns logical properties for min/max-height & min/max- width 4`] = `
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 4`] = `
 Array [
-  Object {
-    "maxWidth": "300px",
-  },
   Object {
     "maxInlineSize": "300px",
   },
+  Object {
+    "maxWidth": "300px",
+  },
 ]
 `;
 
-exports[`logicalProperty returns logical properties for min/max-height & min/max- width 5`] = `
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 5`] = `
 Array [
-  Object {
-    "minHeight": "200px",
-  },
   Object {
     "minBlockSize": "200px",
   },
+  Object {
+    "minHeight": "200px",
+  },
 ]
 `;
 
-exports[`logicalProperty returns logical properties for min/max-height & min/max- width 6`] = `
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 6`] = `
 Array [
+  Object {
+    "minInlineSize": "300px",
+  },
+  Object {
+    "minWidth": "300px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 7`] = `
+Array [
+  Object {
+    "maxBlockSize": "200px",
+  },
+  Object {
+    "maxHeight": "200px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for min/max-height & min/max-width 8`] = `
+Array [
+  Object {
+    "maxInlineSize": "300px",
+  },
   Object {
     "maxWidth": "300px",
   },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 1`] = `
+Array [
   Object {
-    "maxInlineSize": "300px",
+    "paddingBlockStart": "20px",
+  },
+  Object {
+    "paddingTop": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 2`] = `
+Array [
+  Object {
+    "paddingBlockEnd": "20px",
+  },
+  Object {
+    "paddingBottom": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 3`] = `
+Array [
+  Object {
+    "paddingInlineStart": "20px",
+  },
+  Object {
+    "paddingLeft": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 4`] = `
+Array [
+  Object {
+    "paddingInlineEnd": "20px",
+  },
+  Object {
+    "paddingRight": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 5`] = `
+Array [
+  Object {
+    "paddingBlockStart": "20px",
+  },
+  Object {
+    "paddingTop": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 6`] = `
+Array [
+  Object {
+    "paddingBlockEnd": "20px",
+  },
+  Object {
+    "paddingBottom": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 7`] = `
+Array [
+  Object {
+    "paddingInlineStart": "20px",
+  },
+  Object {
+    "paddingLeft": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding longhand 8`] = `
+Array [
+  Object {
+    "paddingInlineEnd": "20px",
+  },
+  Object {
+    "paddingRight": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding shorthand 1`] = `
+Array [
+  Object {
+    "paddingBottom": "20px",
+    "paddingTop": "20px",
+  },
+  Object {
+    "paddingBlock": "20px",
+  },
+]
+`;
+
+exports[`logicalProperty returns logical properties for padding shorthand 2`] = `
+Array [
+  Object {
+    "paddingLeft": "20px",
+    "paddingRight": "20px",
+  },
+  Object {
+    "paddingInline": "20px",
   },
 ]
 `;
@@ -168,10 +1640,10 @@ Array [
 exports[`logicalProperty returns logical properties for resize 1`] = `
 Array [
   Object {
-    "resize": "horizontal",
+    "resize": "inline",
   },
   Object {
-    "resize": "inline",
+    "resize": "horizontal",
   },
 ]
 `;
@@ -179,10 +1651,10 @@ Array [
 exports[`logicalProperty returns logical properties for resize 2`] = `
 Array [
   Object {
-    "resize": "vertical",
+    "resize": "block",
   },
   Object {
-    "resize": "block",
+    "resize": "vertical",
   },
 ]
 `;
@@ -190,10 +1662,10 @@ Array [
 exports[`logicalProperty returns logical properties for text-align 1`] = `
 Array [
   Object {
-    "textAlign": "left",
+    "textAlign": "start",
   },
   Object {
-    "textAlign": "start",
+    "textAlign": "left",
   },
 ]
 `;
@@ -201,10 +1673,10 @@ Array [
 exports[`logicalProperty returns logical properties for text-align 2`] = `
 Array [
   Object {
-    "textAlign": "right",
+    "textAlign": "end",
   },
   Object {
-    "textAlign": "end",
+    "textAlign": "right",
   },
 ]
 `;
@@ -212,10 +1684,10 @@ Array [
 exports[`logicalProperty returns logical properties for text-align 3`] = `
 Array [
   Object {
-    "textAlign": "right",
+    "textAlign": "end",
   },
   Object {
-    "textAlign": "end",
+    "textAlign": "right",
   },
 ]
 `;
